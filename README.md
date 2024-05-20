@@ -1,4 +1,4 @@
-- 👋 Hi, I’m krishnamurthi
+- 👋 Hi , Im Krishnamurthi
 
 I'm a passionate learner and  data science enthusiast, currently pursuing Btech from - Indian Institute of Information Technology Kurnool.
 
