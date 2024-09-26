@@ -1,6 +1,6 @@
 - 👋 Hi , Im Krishnamurthi
 
-I'm a passionate learner and  data science enthusiast, currently pursuing Btech from - Indian Institute of Information Technology Kurnool.
+I'm a passionate learner and  data science enthusiast, currently pursuing Btech from - Indian Institute of Information Technology Design and Manufacturing Kurnool.
 
 👀 I’m interested in Machine learning
 
