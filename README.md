@@ -30,8 +30,10 @@
 
 📫 Let's Connect & Collaborate!
 📧 Email: kiccha1703@gmail.com
-🔗 LinkedIn: Krishnamurthi Ramesh
-🐍 GitHub: krishnamurthi-ramesh
+
+🔗 LinkedIn:[krishnamurthi-ramesh](www.linkedin.com/in/krishna9003762619murthi)
+
+🐍 GitHub:[ krishnamurthi-ramesh](https://github.com/krishnamurthi-ramesh)
 
 🔥 "AI is not just about automation; it's about amplifying human intelligence!" 🚀
 🔹 Like what you see? Drop a ⭐ and let's innovate together!
