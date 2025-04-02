@@ -31,7 +31,7 @@
 📫 Let's Connect & Collaborate!
 📧 Email: kiccha1703@gmail.com
 
-🔗 LinkedIn:[krishnamurthi-ramesh](www.linkedin.com/in/krishna9003762619murthi)
+🔗 LinkedIn:[krishnamurthi-ramesh]([www.linkedin.com/in/krishna9003762619murthi](https://www.linkedin.com/in/krishna9003762619murthi/))
 
 🐍 GitHub:[ krishnamurthi-ramesh](https://github.com/krishnamurthi-ramesh)
 
