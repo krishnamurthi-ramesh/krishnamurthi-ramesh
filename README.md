@@ -2,14 +2,14 @@
 
 I'm a passionate learner and  data science enthusiast, currently pursuing Btech from - Indian Institute of Information Technology Design and Manufacturing Kurnool.
 
-👀 I’m interested in Machine learning
+👀 I’m interested in Machine learning , Artificial Intelligence , Natural Language Processing , LLM's , GEN AI  
 
 🌱 skills-
 
-- SQL Databases: MySQL, OracleSQL .
+- SQL Databases: MySQL, OracleSQL , PostgreSQL
 - Python Libraries: Pandas, Numpy, Scikit-learn, Matplotlib, Plotly, Seaborn
-- Tools: Jupyter Notebooks | Git | Docker .
-- Programming: Python | C++ 
+- Tools: Jupyter Notebooks |Git | Docker .
+- Programming: Python | C++ | java
 
 📫 Let's Connect
 
