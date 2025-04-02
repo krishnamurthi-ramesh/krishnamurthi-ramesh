@@ -1,23 +1,40 @@
-- 👋 Hi , Im Krishnamurthi
+👋 Hi, I'm Krishnamurthi!
+I'm a passionate Data Science and Machine Learning enthusiast, currently pursuing my B.Tech at the Indian Institute of Information Technology, Design, and Manufacturing (IIITDM) Kurnool. I have a deep interest in Artificial Intelligence (AI), Natural Language Processing (NLP), Generative AI (GenAI), and Large Language Models (LLMs).
 
-I'm a passionate learner and  data science enthusiast, currently pursuing Btech from - Indian Institute of Information Technology Design and Manufacturing Kurnool.
+👀 Areas of Interest
+Machine Learning & Deep Learning
 
-👀 I’m interested in Machine learning , Artificial Intelligence , Natural Language Processing , LLM's , GEN AI  
+Natural Language Processing (NLP)
 
-🌱 skills-
+Generative AI (GenAI) & Large Language Models (LLMs)
 
-- SQL Databases: MySQL, OracleSQL , PostgreSQL
-- Python Libraries: Pandas, Numpy, Scikit-learn, Matplotlib, Plotly, Seaborn
-- Tools: Jupyter Notebooks |Git | Docker .
-- Programming: Python | C++ | java
+Big Data & Cloud Computing
+
+Data Engineering & Analytics
+
+🌱 Skills & Technologies
+📊 Data Science & Analytics
+Python Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+
+Databases: MySQL, PostgreSQL, OracleSQL
+
+Machine Learning & AI: Regression, Classification, Clustering, Neural Networks
+
+💻 Programming & Development
+Languages: Python, C++, Java
+
+Tools & Platforms: Jupyter Notebooks, Git, Docker
+
+Cloud & DevOps: AWS (Basics), Linux (Bash Scripting), Docker
+
+📊 Visualization & BI Tools
+Visualization: Matplotlib, Seaborn, Plotly
+
+Dashboarding: Power BI, Tableau (Intermediate)
 
 📫 Let's Connect
+📧 Email: kiccha1703@gmail.com
+🔗 LinkedIn: Krishnamurthi Ramesh
+🐍 GitHub: krishnamurthi-ramesh
 
-- Email_id : kiccha1703@gmail.com
-- linkedin :www.linkedin.com/in/krishna-murthi-90037kiccha62619
- 
-
-<!---
-krishnamurthi-ramesh/krishnamurthi-ramesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to connect with me for collaborations, discussions, and opportunities in Machine Learning, AI, and Data Science! 🚀
