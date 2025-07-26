@@ -1,75 +1,78 @@
-<!-- sci-fi blue JARVIS-inspired animated AI resume -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Krishnamurthi Ramesh — AI Agent</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Krishnamurthi Ramesh — AI Agent Portfolio</title>
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
     body {
+      margin: 0;
       font-family: 'Orbitron', sans-serif;
-      background: radial-gradient(ellipse at center, #0b0f2c 0%, #000000 100%);
+      background: linear-gradient(135deg, #010130, #000);
       color: #00ffff;
       overflow-x: hidden;
     }
     header {
       text-align: center;
-      padding: 3rem 1rem;
-      animation: glowFade 3s ease-in-out forwards;
+      padding: 5rem 2rem 2rem;
+      background: linear-gradient(to bottom, #000a1f, transparent);
     }
     header h1 {
       font-size: 3rem;
-      text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff;
+      text-shadow: 0 0 20px #00ffff;
+      animation: glow 2s infinite alternate;
     }
     header p {
-      margin-top: 1rem;
       font-size: 1.2rem;
-      color: #5effff;
+      color: #7afcff;
+      margin-top: 1rem;
     }
-    .section {
+    @keyframes glow {
+      from { text-shadow: 0 0 10px #00ffff; }
+      to { text-shadow: 0 0 30px #00ffff; }
+    }
+    section {
       max-width: 900px;
       margin: 3rem auto;
       padding: 2rem;
-      border: 1px solid #00ffff;
-      border-radius: 20px;
+      border: 2px solid #00ffff;
+      border-radius: 12px;
       background: rgba(0, 255, 255, 0.05);
-      box-shadow: 0 0 20px #00ffff55;
+      box-shadow: 0 0 25px #00ffff33;
     }
-    .section h2 {
-      margin-bottom: 1rem;
-      font-size: 2rem;
+    section h2 {
       text-align: center;
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
       text-decoration: underline;
     }
-    .skills, .projects, .contact {
+    .content-box {
       display: grid;
       gap: 1.5rem;
     }
-    .skill, .project, .contact-item {
-      background: rgba(0, 255, 255, 0.1);
+    .item {
+      background: rgba(0, 255, 255, 0.07);
       padding: 1rem;
-      border-radius: 12px;
-      transition: transform 0.3s ease, box-shadow 0.3s;
+      border-radius: 10px;
+      transition: all 0.3s ease-in-out;
     }
-    .skill:hover, .project:hover, .contact-item:hover {
+    .item:hover {
       transform: scale(1.05);
-      box-shadow: 0 0 15px #00ffff88;
+      box-shadow: 0 0 12px #00ffff99;
     }
-    .footer {
+    a {
+      color: #00ffff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
       text-align: center;
       margin: 4rem 0;
-      color: #5effff;
       font-size: 1.1rem;
-    }
-    @keyframes glowFade {
-      0% {opacity: 0; transform: scale(0.9);}
-      100% {opacity: 1; transform: scale(1);}
+      color: #7afcff;
     }
   </style>
 </head>
@@ -79,45 +82,11 @@
     <p>I build agents, not just scripts.</p>
   </header>
 
-  <section class="section">
+  <section>
     <h2>🧠 AI Skills</h2>
-    <div class="skills">
-      <div class="skill">Python / SQL / Bash</div>
-      <div class="skill">Machine Learning & Deep Learning</div>
-      <div class="skill">LLMs (GPT, BERT, T5, LLaMA2)</div>
-      <div class="skill">Docker, Kubernetes, GitHub Actions</div>
-      <div class="skill">Power BI, Tableau, Matplotlib</div>
-    </div>
-  </section>
-
-  <section class="section">
-    <h2>🚀 Projects</h2>
-    <div class="projects">
-      <div class="project">
-        <strong>LLM-based Chatbot (LLaMA 2)</strong><br>
-        Real-time context-aware Q&A system using Flask + LLaMA 2<br>
-        <a href="https://github.com/krishnamurthi-ramesh/chatbot_using_nlp_" target="_blank">🔗 GitHub Repo</a>
-      </div>
-      <div class="project">
-        <strong>Newzy — AI News Aggregator</strong><br>
-        Summarizes real-time news using BART + Dev.to publishing<br>
-        <a href="https://github.com/krishnamurthi-ramesh/Newzy_" target="_blank">🔗 GitHub Repo</a>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <h2>📍 Contact Me</h2>
-    <div class="contact">
-      <div class="contact-item">📧 Email: <a href="mailto:kiccha1703@gmail.com">kiccha1703@gmail.com</a></div>
-      <div class="contact-item">🔗 LinkedIn: <a href="https://linkedin.com/in/krishna9003762619murthi" target="_blank">Profile</a></div>
-      <div class="contact-item">🐍 GitHub: <a href="https://github.com/krishnamurthi-ramesh" target="_blank">@krishnamurthi-ramesh</a></div>
-    </div>
-  </section>
-
-  <div class="footer">
-    “AI isn’t about replacing humans – it’s about amplifying intelligence.”<br>
-    ⚡ Built with ❤ in Sci-Fi Mode
-  </div>
-</body>
-</html>
+    <div class="content-box">
+      <div class="item">Python • Bash • SQL</div>
+      <div class="item">Machine Learning • Deep Learning • MLOps</div>
+      <div class="item">LLMs: GPT • BERT • T5 • LLaMA2</div>
+      <div class="item">Docker • Kubernetes • GitHub Actions</div>
+      <div class="item">Power BI • Tableau • Kibana
