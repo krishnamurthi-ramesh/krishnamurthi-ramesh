@@ -35,11 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamurthi-ramesh&theme=tokyonight" height="180em"/>
 </p>
 
----
-### 📊 GitHub Activity Graph
-[![Krishnamurthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnamurthi-ramesh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/krishna9003762619murthi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
