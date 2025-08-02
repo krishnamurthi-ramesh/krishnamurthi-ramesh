@@ -36,10 +36,8 @@
 </p>
 
 ---
-
-### 📈 Dynamic Graph Snake
-![Snake animation](https://github.com/krishnamurthi-ramesh/krishnamurthi-ramesh/blob/output/github-contribution-grid-snake.svg)
-
+### 📊 GitHub Activity Graph
+[![Krishnamurthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnamurthi-ramesh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### 🌐 Connect with Me
