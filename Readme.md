@@ -1,92 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Krishnamurthi Ramesh — AI Agent Portfolio</title>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Orbitron', sans-serif;
-      background: linear-gradient(135deg, #010130, #000);
-      color: #00ffff;
-      overflow-x: hidden;
-    }
-    header {
-      text-align: center;
-      padding: 5rem 2rem 2rem;
-      background: linear-gradient(to bottom, #000a1f, transparent);
-    }
-    header h1 {
-      font-size: 3rem;
-      text-shadow: 0 0 20px #00ffff;
-      animation: glow 2s infinite alternate;
-    }
-    header p {
-      font-size: 1.2rem;
-      color: #7afcff;
-      margin-top: 1rem;
-    }
-    @keyframes glow {
-      from { text-shadow: 0 0 10px #00ffff; }
-      to { text-shadow: 0 0 30px #00ffff; }
-    }
-    section {
-      max-width: 900px;
-      margin: 3rem auto;
-      padding: 2rem;
-      border: 2px solid #00ffff;
-      border-radius: 12px;
-      background: rgba(0, 255, 255, 0.05);
-      box-shadow: 0 0 25px #00ffff33;
-    }
-    section h2 {
-      text-align: center;
-      font-size: 2rem;
-      margin-bottom: 1.5rem;
-      text-decoration: underline;
-    }
-    .content-box {
-      display: grid;
-      gap: 1.5rem;
-    }
-    .item {
-      background: rgba(0, 255, 255, 0.07);
-      padding: 1rem;
-      border-radius: 10px;
-      transition: all 0.3s ease-in-out;
-    }
-    .item:hover {
-      transform: scale(1.05);
-      box-shadow: 0 0 12px #00ffff99;
-    }
-    a {
-      color: #00ffff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    footer {
-      text-align: center;
-      margin: 4rem 0;
-      font-size: 1.1rem;
-      color: #7afcff;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Krishnamurthi Ramesh</h1>
-    <p>I build agents, not just scripts.</p>
-  </header>
+<!-- Animated GitHub Profile README -->
 
-  <section>
-    <h2>🧠 AI Skills</h2>
-    <div class="content-box">
-      <div class="item">Python • Bash • SQL</div>
-      <div class="item">Machine Learning • Deep Learning • MLOps</div>
-      <div class="item">LLMs: GPT • BERT • T5 • LLaMA2</div>
-      <div class="item">Docker • Kubernetes • GitHub Actions</div>
-      <div class="item">Power BI • Tableau • Kibana
+<h1 align="center">Hi 👋, I'm Krishnamurthi</h1>
+<h3 align="center">🚀 Data Scientist | Full Stack Enthusiast | DevOps Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&width=600&lines=Passionate+about+AI%2C+ML+%26+Data+Science;Building+Scalable+Web+Apps;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🎓 **B.Tech CSE** @ IIITDM Kurnool (2022–2026)
+- 💻 Skills: `Python` | `SQL` | `Docker` | `Kubernetes` | `Machine Learning` | `Deep Learning` | `Data Visualization` | `Web Development`
+- 🌐 Web Dev: `HTML` | `CSS` | `JavaScript` | `Flask` | `Bootstrap` | `Responsive UI`
+- 📊 Worked with **Apache Kafka, Elasticsearch, Grafana, Wazuh**
+- 🔭 Recent Projects:
+  - **[Newzy](https://github.com/krishnamurthi-ramesh/Newzy_)** – Autonomous News Aggregation System with BART Summarization
+  - **[LLM Chatbot](https://github.com/krishnamurthi-ramesh/chatbot_using_nlp_)** – Context-aware chatbot using LLaMA 2
+- 🏆 **Achievements:** 2nd Place in multiple hackathons (GDG, Solasta, DataWorks)
+- 📫 Reach me at **kiccha1703@gmail.com**
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,html,css,js,bootstrap,react,docker,kubernetes,git,github,linux,postgresql,mysql,powershell" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnamurthi-ramesh&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamurthi-ramesh&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+### 📈 Dynamic Graph Snake
+![Snake animation](https://github.com/krishnamurthi-ramesh/krishnamurthi-ramesh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishna9003762619murthi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:kiccha1703@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/krishnamurthi-ramesh"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnamurthi-ramesh/krishnamurthi-ramesh/main/assets/coding.gif" width="400"/>
+</p>
+
+---
+
+💡 *"Keep learning, keep building, keep growing"* ✨
