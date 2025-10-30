@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnamurthi</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | AI/ML Enthusiast | RAG & LLM Specialist</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | AI/ML Enthusiast | RAG & LLM | Devops Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&width=600&lines=Passionate+about+AI%2FML+%26+Data+Science;Building+RAG+Systems+%26+LLM+Applications;Experimentation+%26+POC+Development" alt="Typing SVG" />
