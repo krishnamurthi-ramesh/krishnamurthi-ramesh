@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What role is described in the Grazitti Interactive job description?",
+    "relevant_sources": ["Grazitti Interactive - Job Description_ Junior Data Scientist – AI.pdf"],
+    "ground_truth": "Junior Data Scientist – AI role at Grazitti Interactive"
+  },
+  {
+    "question": "What is the total Term 3 fee mentioned in the IIMV document?",
+    "relevant_sources": ["IIMV Term 3 fees_30 Oct 2025.pdf"],
+    "ground_truth": "The total fee amount listed for Term 3"
+  }
+]

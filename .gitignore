@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+.python-version
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+data/raw_documents/*
+!data/raw_documents/.gitkeep
+data/vector_store/*
+!data/vector_store/.gitkeep
+data/evaluation/*
+!data/evaluation/.gitkeep
+
+# Notebooks and experiments
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Local development
+.env.local
+.env.*.local

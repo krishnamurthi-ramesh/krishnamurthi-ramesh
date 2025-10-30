@@ -1,0 +1,28 @@
+# Configuration for the RAG system
+paths:
+  raw_documents_dir: "data/raw_documents"
+  evaluation_dir: "data/evaluation"
+  vector_store_dir: "data/vector_store"
+  faiss_index_path: "data/vector_store/index.faiss"
+  faiss_metadata_path: "data/vector_store/metadata.json"
+
+chunking:
+  chunk_size: 500
+  chunk_overlap: 100
+
+retrieval:
+  top_k: 5
+  score_threshold: null  # optional threshold for filtering
+
+embeddings:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+
+llm:
+  provider: "ollama"
+  model: "llama2"
+  temperature: 0.2
+  max_tokens: 512
+
+ui:
+  default_question: "What does this document say about the main topic?"
+  show_chunk_preview: true
